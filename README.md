@@ -1,5 +1,29 @@
-# 💫 About Me:
-🧠 About Me<br><br>🧩 I’m currently working on:<br>Building and scaling real-world systems — from Android apps to backend platforms:<br><br>📱 Arova: AI-powered calorie tracker built with Jetpack Compose + Gemini API.<br><br>📧 Auto Job Tracker: Go-based Gmail → Notion pipeline that auto-logs and tracks job applications.<br><br>🎓 Student Management Portal: Full-stack Spring Boot + React application with JWT authentication, email notifications, and role-based dashboards for students and admins.<br><br>🤝 I’m looking to collaborate on:<br>Open-source Android projects, backend automation tools, or practical AI integrations that create leverage — not noise.<br><br>🧩 I’m looking for help with:<br>Optimizing backend workflows, integrating LLMs into existing apps, and building efficient email automation systems.<br><br>🌱 I’m currently learning:<br><br>Spring Boot microservices, security, and deployment.<br><br>Go backend integrations and scalable system design.<br><br>Deep Android internals: Compose compiler, slot table, and UI performance tuning.<br><br>💬 Ask me about:<br>Android development (Compose, Hilt, Realm, Room), Go APIs, OCR + ERP integrations, or building MVPs that actually ship.<br><br>⚡ Fun fact:<br>I’m training my mind and body like a soldier, waking up at 5 AM, coding, lifting, and building something every damn day.
+## 💫 About Me  
+
+Hey there 👋 I’m **Saksham Nayyar**, a passionate builder who loves turning ideas into real products that *actually work*.  
+
+🎓 I recently completed my **Master’s in Computer Science from George Mason University** and currently work as a **Software Engineer Intern at Open Learning Exchange**, contributing to their education app *myPlanet*.  
+Before that, I spent **3 years at Samsung R&D Institute** as an **Android Developer**, working on large-scale features and systems used by millions.  
+
+### 🧩 I’m currently working on  
+Building and scaling real-world systems, from Android apps to web applications:  
+- 📱 **Arova**: AI-powered calorie tracker built with Jetpack Compose + Gemini API.  
+- 📧 **Auto Job Tracker**: Go-based Gmail → Notion pipeline that auto-logs and tracks job applications.  
+- 🎓 **Student Management Portal**: Full-stack Spring Boot + React app with JWT auth, email notifications, and role-based dashboards.  
+
+### 🌱 I’m currently learning  
+- Spring Boot microservices, security, and deployment.  
+- Go backend integrations and scalable system design.  
+- Deep Android internals, Compose compiler, slot table, and UI performance tuning.
+
+### 💬 Ask me about  
+Android development (Compose, Hilt, Realm, Room), springboot microservices or building MVPs that actually *ship*.  
+
+### ⚡ Fun fact  
+I’m training my mind and body like a soldier, waking up at 5 AM, coding, lifting, and building every damn day.  
+I’m obsessed with growth, networking, and building meaningful things.  
+If you’re here and don’t know me yet  **shoot me a message on [LinkedIn](https://www.linkedin.com/in/saksham-nayyar-1b90b016a/)**.  
+Let’s connect and build something that changes the world... or at least gets us rich 😎  
 
 
 ## 🌐 Socials:
