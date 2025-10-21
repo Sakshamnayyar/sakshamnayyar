@@ -3,7 +3,7 @@
 Hey there 👋 I’m **Saksham Nayyar**, a passionate builder who loves turning ideas into real products that *actually work*.  
 
 🎓 I recently completed my **Master’s in Computer Science from George Mason University** and currently work as a **Software Engineer Intern at Open Learning Exchange**, contributing to their education app *myPlanet*.  
-Before that, I spent **3 years at Samsung R&D Institute** as an **Android Developer**, working on large-scale features and systems used by millions.  
+Before that, I spent **3 years at Samsung R&D Institute** as an **Software Engineer**, working on large-scale features and systems used by millions.  
 
 ### 🧩 I’m currently working on  
 Building and scaling real-world systems, from Android apps to web applications:  
